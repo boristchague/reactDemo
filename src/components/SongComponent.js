@@ -78,6 +78,10 @@ class SongComponent extends React.Component{
                             }
                         </tbody>
                     </table >
+
+                    <br/><br/>
+
+                    <a href="/addsong"> Add Song </a>
                                        
                 </div>
             )
